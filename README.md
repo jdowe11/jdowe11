@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">An aspiring computer scientist looking to expand my knowledge and undergo new experiences or opportunities.</h3>
 
-- 🔭 I’m currently working on [Title Database Site/Application](N/A)
+- 🔭 I’m currently working on [Title Database Site/Application](N/A) and [Making my Own Language](N/A)
 
 - 🌱 I’m currently learning **Gemini API and how to integrate it into videogames!**
 
